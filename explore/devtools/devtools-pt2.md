@@ -1,0 +1,2 @@
+1. The bug is that num1 and num2 are actually strings. So the result variable becomes a string that concatinates the two strings.
+2. I would convert num1 and num2 to integers in the function before adding them. This way the result variable would be a integer sum.
